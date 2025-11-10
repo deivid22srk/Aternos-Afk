@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aternos Controller</string>
+    <string name="login">Login</string>
+    <string name="server_control">Controle do Servidor</string>
+    <string name="settings">Configurações</string>
+    <string name="start_server">Ligar Servidor</string>
+    <string name="stop_server">Parar Servidor</string>
+    <string name="queue_position">Posição na Fila</string>
+    <string name="accept_queue">Aceitar Fila</string>
+    <string name="players_online">Jogadores Online</string>
+    <string name="auto_accept_queue">Aceitar Fila Automaticamente</string>
+    <string name="auto_start_server">Verificar e Ligar Servidor Automaticamente</string>
+    <string name="auto_start_description">Verifica a cada 3 minutos se o servidor está ligado e liga automaticamente se necessário</string>
+    <string name="server_status">Status do Servidor</string>
+    <string name="online">Online</string>
+    <string name="offline">Offline</string>
+    <string name="loading">Carregando...</string>
+    <string name="logout">Sair</string>
+</resources>
